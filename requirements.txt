@@ -1,0 +1,10 @@
+torch
+torchvision
+Pillow
+numpy==1.26.4
+matplotlib
+opencv-python
+Flask==2.2.3
+gunicorn
+joblib
+shap==0.47.2

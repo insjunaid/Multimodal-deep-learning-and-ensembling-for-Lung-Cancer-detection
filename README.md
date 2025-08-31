@@ -132,7 +132,7 @@ These tools ensure transparency, making the model trustworthy for clinical use.
 
 ## 👥 Contributors
 
-- **Junaid Shariff - Team Lead
+- **Junaid Shariff** - Team Lead
 - **Md Adan**
 - **Punith J**
 - **Md Yousuf**

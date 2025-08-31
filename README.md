@@ -136,7 +136,7 @@ These tools ensure transparency, making the model trustworthy for clinical use.
 - **Md Adan**
 - **Punith J**
 - **Md Yousuf**
-Contributions are welcome! Open issues or submit pull requests.
+- Contributions are welcome! Open issues or submit pull requests.
 
 ## 📝 License
 

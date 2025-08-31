@@ -105,7 +105,7 @@ Register/login to access personalized prediction history stored in the SQL datab
 
 ### Training
 - **Image augmentation**: rotation, flip, zoom
-- Fine-tuned pre-trained models on lung cancer datasets (e.g., LIDC-IDRI, ChestX-ray14)
+- Fine-tuned pre-trained models on lung cancer datasets
 - MLP trained on symptom metadata
 
 ### Evaluation
